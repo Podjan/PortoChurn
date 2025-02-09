@@ -16,7 +16,7 @@ Created by: Mohammad Fauzan
 1. Download data [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/Podjan/ChurnPorto
+   git clone https://github.com/Podjan/PortoChurn
 
 ## Library and Version
 - Numpy: 1.26.4
