@@ -320,7 +320,7 @@ The results of those models are:
 | Random Forest      | 0.64             | 1.00             |
 | XGBoost           | 0.73             | 0.90             |
 
-From the table above, Logistic Regression is the best model with a recall of 0.81. The model is also not too overfitting (very small). With this, we can focus on the Logistic Regression model only.
+From the table above, Logistic Regression is the best model with  recall score of 0.81. The model is also not too overfitting (very small). With this, we can focus on the Logistic Regression model only.
 
 If we look at the ROC-AUC curve, our model is quite good at distinguishing classes, with a score of 0,83. We can create the curve with the following code:
 ```python
